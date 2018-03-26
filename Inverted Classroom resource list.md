@@ -1,8 +1,8 @@
-#Resources for the inverted classroom
+# Resources for the inverted classroom
 
 A web-based form of this handout with clickable links can be found at [https://github.com/RobertTalbert/invertedclassroom](https://github.com/RobertTalbert/invertedclassroom) in the file <b>Inverted Classroom resource list.md</b>. This list will continue to evolve and expand as others contribute to it, so check back often. To submit an item, email it to me at robert.talbert@gmail.com or talbertr@gvsu.edu. 
 
-##ESSENTIAL ITEMS
+## ESSENTIAL ITEMS
 
 IMO the top five items from this list for those just learning about the inverted classroom, or those who know a little and want to go deeper, are: 
 
@@ -17,7 +17,7 @@ IMO the top five items from this list for those just learning about the inverted
 + [The inverted calculus course: Using Guided Practice to build self-regulation](http://chronicle.com/blognetwork/castingoutnines/2014/03/04/the-inverted-calculus-course-using-guided-practice-to-build-self-regulation/) 
     * Blog post from Casting Out Nines on Guided Practice, a model for maximizing students' pre-class experience in an inverted classroom setting. 
 
-##Books and research articles 
+## Books and research articles 
 
 + Bates, S. and R. Galloway (2012). The inverted classroom in a large enrollment introductory physics course: A case study. _The Higher Education Academy_.
 + Gannod, G., J. Burge, and M. Helmick (2008). Using the inverted classroom to teach software engineering. Proceedings of the 30th international conference on Software engineering, Leipzig, Germany, Association for Computing Machinery, 777–786.
@@ -32,7 +32,7 @@ DOI: 10.1080/10511970.2014.883457
 + Talbert, R. (2014) The inverted classroom in introductory calculus: Best practices and potential benefits for the preparation of engineers. To appear in _Proceedings of the American Society for Engineering Education 2014 Annual Conference_. 
 + Warter-Perez and J. Dong (2012). Flipping the classroom: How to embed inquiry and design projects into a digital engineering lecture. Paper presented at ASEE PSW Section Conference, California Polytechnic State University, San Luis Obispo.
 
-##Blogs, podcasts, and websites about flipped learning and the inverted classroom
+## Blogs, podcasts, and websites about flipped learning and the inverted classroom
 
 + [Casting Out Nines](http://chronicle.com/blognetwork/castingoutnines) (R. Talbert)
 + [Flipped Learning Network](http://flippedlearning.org)
@@ -40,7 +40,7 @@ DOI: 10.1080/10511970.2014.883457
 + [The FlipSide podcast](http://jonbergmann.com/radio-show/) (Jon Bergmann) 
 + [My Flipped Classroom](http://flippedclassroom.blogspot.co.uk/)
 
-##Course materials
+## Course materials
 
 + Materials for inverted Calculus course at GVSU (MTH 201)
     * [YouTube playlist](http://bit.ly/GVSUCalculus)
@@ -49,7 +49,7 @@ DOI: 10.1080/10511970.2014.883457
     * [YouTube playlist](http://youtu.be/UuETUEJo0rk?list=PL2419488168AE7001)
     * [Github repository of other materials](https://github.com/RobertTalbert/proof)
 
-##Magazine articles and blog posts
+## Magazine articles and blog posts
 
 + Jon Bergmann has a huge list of articles and blog posts about flipped learning here: http://jonbergmann.com/newsroom/articles-blogs-about-flipped-learning/
 + Posts by other authors besides Talbert
@@ -76,7 +76,7 @@ DOI: 10.1080/10511970.2014.883457
     * [What's different about the inverted classroom?](http://chronicle.com/blognetwork/castingoutnines/2013/08/06/whats-different-about-the-inverted-classroom/) (6 August 2013)
     * [The inverted classroom as a platform](http://chronicle.com/blognetwork/castingoutnines/2013/03/08/the-inverted-classroom-as-platform/) 
 
-##Presentations
+## Presentations
 
 + Confessions of a converted lecturer (Eric Mazur)
     * [Abridged](https://www.youtube.com/watch?v=rvw68sLlfF8) (18:01)
@@ -84,12 +84,12 @@ DOI: 10.1080/10511970.2014.883457
 + [Four things I wish I'd known about the flipped classroom](http://vimeo.com/96653950) (http://vimeo.com/96653950)
 
 
-##Whitepapers 
+## Whitepapers 
 
 + [Flipped Learning Network operational definition of "flipped learning"](http://flippedlearning.org/domain/46) 
 + [What is the flipped classroom?](http://ctl.utexas.edu/ctl/node/425) (University of Texas)
 + [7 things you should know about the flipped classroom](http://net.educause.edu/ir/library/pdf/ELI7081.pdf) (PDF, Educause)
 
-##Video 
+## Video 
 
 + [The flipped classroom in 60 seconds](http://www.youtube.com/watch?feature=player_embedded&v=r2b7GeuqkPc) (1:16)
